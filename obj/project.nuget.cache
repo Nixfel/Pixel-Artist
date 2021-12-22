@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4IoGPilaCbyv9M9OJFq1VZPSXr/LvT0ntxrGfSn3CN96e3MzzeW7Hw58OytCSy78TU3TM6sce6GW2MPgv5oBwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gage\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\PixelArtist\\PixelArtist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gage\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

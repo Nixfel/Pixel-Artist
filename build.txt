@@ -1,0 +1,4 @@
+displayName = Pixel Artist NPC
+author = Nixfel
+version = 0.9
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
