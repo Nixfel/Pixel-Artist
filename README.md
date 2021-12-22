@@ -6,4 +6,4 @@ They sell:
 - A new weapon 
 - A new music box
 - More!
-Most of the items (besides pixel blocks) the NPC sells are themed around games with pixel art graphics.  I hope you enjoy this mod as much as I did creating it, if you would like to learn more about this mods content please go to this mod's homepage. Thanks for checking it out!
+- Most of the items (besides pixel blocks) the NPC sells are themed around games with pixel art graphics.  I hope you enjoy this mod as much as I did creating it, if you would like to learn more about this mods content please go to this mod's homepage. Thanks for checking it out!
