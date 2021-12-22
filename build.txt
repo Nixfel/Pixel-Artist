@@ -1,4 +1,4 @@
-displayName = Pixel Artist NPC
+displayName = [c/32FF82:Pixel Artist NPC]
 author = Nixfel
 version = 0.9
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
